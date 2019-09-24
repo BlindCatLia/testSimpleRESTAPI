@@ -1,0 +1,15 @@
+{
+    "name": "mysimpleRESTAPI",
+    "version": "1.0.0",
+    "description": "This is a test for a simple REST API",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "DBlindCat",
+    "dependencies": {
+        "express": "^4.17.1",
+        "swagger-ui-express": "^4.1.1"
+    }
+}
